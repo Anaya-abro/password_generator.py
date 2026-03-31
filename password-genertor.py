@@ -2,7 +2,7 @@ import random
 
 length = int(input('Enter the length of your password:')) 
 
-characters = 'abcdefghijklmnopqrstuvwxyz1234567890@#$%^&*!'
+characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@#$%^&*!'
 
 password = ''
 
