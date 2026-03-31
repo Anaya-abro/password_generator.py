@@ -8,6 +8,7 @@ A simple Python program to generate strong, random passwords of user-defined len
 
 - Generates passwords using:
   - Lowercase letters (a-z)
+  - Uppercase letters (A-Z)
   - Numbers (0-9)
   - Symbols (@, #, $, %, ^, &, *, !)
 - User can specify the length of the password
